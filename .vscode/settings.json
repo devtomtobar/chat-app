@@ -1,0 +1,6 @@
+{
+    "search.useIgnoreFiles": false,
+    "emmet.includeLanguages": {
+        "erb": "html"
+    }
+}
